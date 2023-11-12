@@ -1,11 +1,7 @@
 # Tensorflow-Image-Segmentation-Dataset
 Tensorflow Image Segmentation Dataset
 
-<a id="2">
-Dataset
-</a>
-</h2>
-<h3>Data Collection</h3>
+<h2> Segmentation Data Collection (2023/11/11) </h2>
 We have the following dataset.<br>
 
 <li><a href="./dataset/ALL">ALL</a></li>
